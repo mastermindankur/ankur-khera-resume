@@ -1,0 +1,35 @@
+body
+{
+    background-color:darkseagreen;
+}
+
+img
+{
+border: 5px solid antiquewhite;
+}
+
+.box
+{
+    border: 5px solid antiquewhite;
+    padding: 10px;
+}
+
+.box-green
+{
+    border: 8px solid darkgreen;
+    padding: 10px;
+    background-color:aquamarine;
+}
+
+.box-white
+{
+    border: 5px solid antiquewhite;
+    padding: 10px;
+    background-color:wheat
+}
+p
+{
+    font-size: 16pt;
+    font-weight: 500;
+    padding: 10px;
+}
