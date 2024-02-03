@@ -3,7 +3,7 @@ body
     background-color:darkseagreen;
 }
 
-img
+#profile
 {
 border: 5px solid antiquewhite;
 }
@@ -23,7 +23,7 @@ border: 5px solid antiquewhite;
 
 .box-white
 {
-    border: 5px solid antiquewhite;
+    border: 8px solid antiquewhite;
     padding: 10px;
     background-color:wheat
 }
@@ -33,7 +33,10 @@ p
     font-weight: 500;
     padding: 10px;
 }
-a>img
-{
-    width: 10%;
+#ok
+{   
+    width:3.5%;
+    position: fixed;
+    top:88%;
+    left: 95%
 }
